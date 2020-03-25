@@ -3,6 +3,7 @@ Yet another group chat/audio/video communication platform.
 
 ### What's here so far
 `server/api` - NodeJS server written in Typescript using ExpressJS and SocketIO
+
 `client/web` - Angular web app with NGRX
 
 Everything's messy at the moment but basic communication by rooms are working.
